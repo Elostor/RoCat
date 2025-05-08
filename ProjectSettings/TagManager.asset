@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Collectible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Bounds
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4249538213
+    locked: 0
+  - name: Terrain
+    uniqueID: 1551286369
+    locked: 0
+  - name: Player
+    uniqueID: 2805004765
+    locked: 0
+  - name: Rocket
+    uniqueID: 1936650267
+    locked: 0
+  - name: Wheels
+    uniqueID: 3424898683
+    locked: 0
+  - name: Foreground
+    uniqueID: 3609772815
+    locked: 0
+  - name: GUI
+    uniqueID: 2348938075
+    locked: 0
+  - name: Editor
+    uniqueID: 3336801425
+    locked: 0
